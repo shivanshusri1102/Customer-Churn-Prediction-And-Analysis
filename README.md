@@ -111,8 +111,8 @@ where customer_status = 'Joined';
 
 
 ## Report View 
-![Summary Page](https://github.com/shivanshusri1102/Customer-Churn-Predictor-/blob/main/Summary.png)
-![Prediction Page](https://github.com/shivanshusri1102/Customer-Churn-Predictor-/blob/main/Prediction.png)
+![Summary Page](https://github.com/shivanshusri1102/customer_churn_analysis_and_prediction_/blob/main/Summary.png)
+![Prediction Page](https://github.com/shivanshusri1102/customer_churn_analysis_and_prediction_/blob/main/Prediction.png)
 
 ## Conclusion 
 This project demonstrates a complete end-to-end churn analysis workflow by combining SQL-based data processing, interactive Power BI dashboards, and machine learning prediction. By analyzing 6,418 customers, identifying an overall 27.4% churn rate, and predicting high-risk churners with 84% model accuracy, the solution provides clear visibility into customer behavior and churn drivers. The integrated analytical and predictive approach enables businesses to proactively target at-risk customers, reduce revenue loss, and make informed retention decisions, showcasing strong practical application of data analytics and machine learning in a real-world telecom use case.
